@@ -4,7 +4,7 @@
 1. **RTL Design**
 * VerilogHDL을 이용하여 Combinational/Sequantial Logic을 설계합니다
 
-2. ** Functional Verification**
+2. **Functional Verification**
 * Xcelium Simulator를 사용하여 RTL 로직을 검증합니다
 
 3.**Synthesis**
